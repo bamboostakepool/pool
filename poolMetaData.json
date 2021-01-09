@@ -1,6 +1,6 @@
 {
-"name": "Bamboo",
-"description": "A stable, secure, and distributed Cardano stake pool.",
-"ticker": "BAM",
-"homepage": "https://ada-bamboo.webnode.com/"
+        "name": "Bamboo",
+        "description": "A stable, secure, and distributed stake pool.",
+        "ticker": "BAM",
+        "homepage": "https://ada-bamboo.webnode.com/"
 }
